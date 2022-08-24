@@ -8,7 +8,7 @@ The app allows it users to change the "Hello" label by clicking a button
 from a black color to a orange tone.
 
 ### App Walk-though
-<img src= "https://i.imgur.com/e4k5rjX.gifv" width=200><br>
+<img src= "https://i.imgur.com/e4k5rjX.gif" width=200><br>
 
 
 
